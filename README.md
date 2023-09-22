@@ -22,7 +22,7 @@ function light(sw) {
 
 <p>
 <button type="button" onclick="light(1)">Light On</button>
-<button type="button" onclick="light(0)">Light Off</button>
+<button type="button" onclick="light(0)">Light Offf</button>
 </p>
 
 </body>
